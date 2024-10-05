@@ -1,4 +1,4 @@
-# Cabinix - Cab Booking Website
+# **Cabinix - Cab Booking Website
 
 ## Overview
 
@@ -25,4 +25,5 @@ Contributions to Cabinix are welcome and encouraged. If you would like to contri
 
 Cabinix is licensed under the MIT License.
 
-##Contact
+##Contact at 2k22.cse.2213543@gmail.com
+
