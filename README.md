@@ -2,7 +2,7 @@
 
 ## Overview
 
-Cabinix is a modern and responsive cab booking website that allows users to easily book a cab with just a few clicks. With a user-friendly interface and a wide range of features, Cabinix makes it easy for users to find and book the perfect cab for their needs.
+Cabinix is a modern and responsive cab booking website that enables users to effortlessly book a cab with just a few clicks. With its user-friendly interface and an array of features, Cabinix simplifies the process of finding and booking the ideal cab for every need. Experience hassle-free travel and discover the convenience of booking your ride with Cabinix!
 
 ## Features
 
